@@ -1,6 +1,6 @@
 # Card Rede Social CSS
 
- Card simples completamente feito em CSS
+ Card animado inspirado em redes sociais, completamente feito em CSS
 
 https://moajr.github.io/Card_rede_social_CSS/
 
